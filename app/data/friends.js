@@ -1,19 +1,19 @@
 var friendMatch = [
   {
-    name: "Aaron Rodgers",
-    photo: "http://static3.businessinsider.com/image/597a40094528e62c008b4ec6/aaron-rodgers-is-structuring-his-life-like-tom-brady-in-order-to-play-football-into-his-40s.jpg ",
+    name: "Brett Favre",
+    photo: "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2014/10/cd0ymzcznguwzdbhnduynddiytjhm2yyzthlmtjjotqwyyznptg1zdgznwy3zjflnzy1zdrkzgvkzjbmmwqwngviyjjm.jpeg ",
     scores: ["2", "2", "2", "2", "2"]
   }, {
-    name: "Aaron Judge",
-    photo: "http://image.nj.com/home/njo-media/width620/img/yankees_main/photo/mlb-baltimore-orioles-at-new-york-yankees-fa5cf650079734ba.jpg ",
+    name: "Derek Jeter",
+    photo: "https://cdn.newsday.com/polopoly_fs/1.40837704.1579578262!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg ",
     scores: ["3", "3", "3", "3", "3"]
   }, {
-    name: " Alex Morgan",
-    photo: "https://i.ytimg.com/vi/LH8RJ9Q0X0M/maxresdefault.jpg ",
+    name: "Hope Solo",
+    photo: "https://www.colorado.edu/cwa/sites/default/files/styles/medium/public/people/solo_-_headshot.jpg?itok=3LtQ8o8i ",
     scores: ["1", "1", "1", "1", "1"]
   }, {
-    name: "Christen Press",
-    photo: "http://cdn.shopify.com/s/files/1/0661/5963/files/0010_christen_press_large.jpg?9601849381797396010 ",
+    name: "Ali Krieger",
+    photo: "https://snworksceo.imgix.net/ohi/5b012941-7637-4e1a-b14d-fc2d4b5e52fe.sized-1000x1000.jpg?w=1000 ",
     scores: ["3", "3", "3", "3", "1"]
   },
 
