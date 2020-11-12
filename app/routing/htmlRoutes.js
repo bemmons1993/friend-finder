@@ -1,6 +1,5 @@
 var path = require('path');
 
-//Two HTML Routes
 module.exports = function(app){
 //Get route to display the survey page
  app.get('/survey', function (req, res) {
