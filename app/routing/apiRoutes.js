@@ -12,6 +12,7 @@ module.exports = function(app) {
 
     //req.body is available since we're using body-parser middleware
     var newFriend = req.body;
+    
     //score loop
     for(var i = 0; i < newFriend.scores.length; i++) {
       if(newFriend.scores[i] == "1 (Yes)") {
