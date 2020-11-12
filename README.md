@@ -78,6 +78,7 @@ Happy Contributing!
 
 ```
 * Brian Emmons
+
 ```
 
 ---
